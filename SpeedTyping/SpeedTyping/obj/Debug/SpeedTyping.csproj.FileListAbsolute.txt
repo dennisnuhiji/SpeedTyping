@@ -1,0 +1,14 @@
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.exe.config
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.exe
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.pdb
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.csprojResolveAssemblyReference.cache
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.Form1.resources
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.PlayForm.resources
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.Properties.Resources.resources
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.csproj.GenerateResource.Cache
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.exe
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.pdb
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.exe.manifest
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\bin\Debug\SpeedTyping.application
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.exe.manifest
+c:\users\denni\documents\visual studio 2015\Projects\SpeedTyping\SpeedTyping\obj\Debug\SpeedTyping.application
